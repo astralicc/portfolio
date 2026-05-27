@@ -74,12 +74,12 @@ export function AboutSection() {
           <div className="flex flex-col sm:flex-row sm:items-center gap-4 text-xs font-mono text-foreground/50 border-t border-black/5 dark:border-white/5 pt-6 mt-6">
             <div className="flex items-center gap-1.5">
               <MapPin className="w-3.5 h-3.5 text-accent-blue/80" />
-              <span>Jakarta, ID & Remote</span>
+              <span>Jakarta</span>
             </div>
             <div className="hidden sm:block text-foreground/20">|</div>
             <div className="flex items-center gap-1.5">
               <Briefcase className="w-3.5 h-3.5 text-accent-blue/80" />
-              <span>UI Architect & Creative Developer</span>
+              <span>Game Designer</span>
             </div>
           </div>
         </GlassCard>
