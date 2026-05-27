@@ -54,7 +54,7 @@ export function Navbar() {
           href="#"
           className="text-sm font-semibold tracking-wider font-mono hover:opacity-85 transition-opacity"
         >
-          {personalInfo.name.toUpperCase()}
+          PORTFOLIO
         </a>
 
         {/* Desktop Navigation Links */}
